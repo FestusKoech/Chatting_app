@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847550042608",
+    "project_id": "boysrflex",
+    "storage_bucket": "boysrflex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847550042608:android:93711dede3ccfc83a88d35",
+        "android_client_info": {
+          "package_name": "com.example.boys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847550042608-ai01dktlkl0tt3d54n0h0q6jh2406i19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe7TrKjtm9RoY-b9ohCKa25Brikh7UBcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847550042608-ai01dktlkl0tt3d54n0h0q6jh2406i19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
